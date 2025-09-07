@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ErrorHandlingCaseStudy</string>
+    <string name="share">Share</string>
+    <string name="restart_app">Restart App</string>
+    <string name="app_crashed_in_thread">App crashed in %s thread</string>
+    <string name="exception">Exception: %s</string>
+    <string name="app_version">App version: %s</string>
+</resources>
